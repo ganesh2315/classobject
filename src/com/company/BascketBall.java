@@ -12,6 +12,6 @@ public class BascketBall  extends Ball{
         else{
             return false;
         }
-        
+
     }
 }
